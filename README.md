@@ -24,4 +24,5 @@ All files coded by the group, including the .RMD and Knit file are located in th
 Links to each participant's YouTube video and associated PowerPoint files are included in the respective folders in the /Video Materials/ folder.
 
 Link to Alex Gilbert's Presentation: https://youtu.be/sERNfTB3yQE
+
 Link to Yves Hughes' Presentation: https://youtu.be/0Zm2D8T-zRE
