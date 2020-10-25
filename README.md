@@ -13,7 +13,7 @@ The folders and files are structured as follows.
 
 ### Data Sources
 
-There are two data sources, "xxx.csv" and "xxx2.csv", both located in the /Data Sources/ folder.
+There are two data sources, "beers.csv" and "breweries.csv", both located in the /Data Sources/ folder.
 
 ### Codebook
 
