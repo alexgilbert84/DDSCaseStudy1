@@ -25,4 +25,5 @@ Links to each participant's YouTube video and associated PowerPoint files are in
 
 Link to Alex Gilbert's Presentation: https://youtu.be/sERNfTB3yQE
 
-Link to Yves Hughes' Presentation: https://youtu.be/0Zm2D8T-zRE
+Link to Yves Hughes' Presentation: https://youtu.be/cootmeo2xls
+
